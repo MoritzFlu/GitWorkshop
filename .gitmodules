@@ -1,3 +1,4 @@
 [submodule "Exercises"]
 	path = Exercises
+	branch = master
 	url = https://github.com/NoRyyZ/GitWorkshopExercises
