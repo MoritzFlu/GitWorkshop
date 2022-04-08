@@ -1,4 +1,4 @@
 [submodule "Exercises"]
 	path = Exercises
+	url = https://github.com/NoRyyZ/GitWorkshopExercises.git
 	branch = main
-	url = https://github.com/NoRyyZ/GitWorkshopExercises
